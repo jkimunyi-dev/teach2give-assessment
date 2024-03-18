@@ -1,0 +1,17 @@
+{
+  "name": "teach2give",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "tsc && node dist/question1.js && node dist/question2.js && node dist/question3.js && node dist/question4.js && node dist/question5.js && node dist/question6.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.29",
+    "typescript": "^5.4.2"
+  }
+}
